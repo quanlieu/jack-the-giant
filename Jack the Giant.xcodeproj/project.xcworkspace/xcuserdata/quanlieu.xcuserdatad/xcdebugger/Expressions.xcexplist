@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainMenuScene.handleMusicButton():MainMenuScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GameManager.instance.getIsMusicOn()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameplayScene.didMove(to:):GameplayScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mainCamera?.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameplayScene.touchesBegan(_:with:):GameplayScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainMenuScene.touchesBegan(_:with:):MainMenuScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "atPoint(location).name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
